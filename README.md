@@ -1,10 +1,6 @@
-![SCConfigMgr Driver Auatomation Tool](https://i1.wp.com/msendpointmgr.com/wp-content/uploads/2020/04/MSEndpoingMgrDat.jpg?resize=1024%2C641&ssl=1)
-
 # Driver Automation Tool
 
 Welcome to the new home of the **MSEndpointMgr Driver Automation Tool**.
-
-**If you would like to donate to the development of this tool, then please use the sponsor button at the top of the page.**
 
 **FAQ**
 
